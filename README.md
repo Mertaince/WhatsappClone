@@ -5,9 +5,9 @@ I created a WhatsApp clone using SwiftUI and attempted to code the entire interf
 
 | Page | ScreenShot |
 | --- | ---- |
-| Status | <img src="https://github.com/Mertaince/WhatsappClone/blob/main/ScreenShot/1.png" width = "200"> |
-| Call | <img src="https://github.com/Mertaince/WhatsappClone/blob/main/ScreenShot/2.png" width = "200"> |
-| Community | <img src="https://github.com/Mertaince/WhatsappClone/blob/main/ScreenShot/3.png" width = "200"> |
-| Chat | <img src="https://github.com/Mertaince/WhatsappClone/blob/main/ScreenShot/4.png" width = "200"> |
-| Arcihive | <img src="https://github.com/Mertaince/WhatsappClone/blob/main/ScreenShot/5.png" width = "200"> |
-| Setting | <img src="https://github.com/Mertaince/WhatsappClone/blob/main/ScreenShot/6.png" width = "200"> |
+| Status | <img src="https://github.com/Mertaince/WhatsappClone/blob/main/ScreenShot/1.png" width = "400"> |
+| Call | <img src="https://github.com/Mertaince/WhatsappClone/blob/main/ScreenShot/2.png" width = "400"> |
+| Community | <img src="https://github.com/Mertaince/WhatsappClone/blob/main/ScreenShot/3.png" width = "400"> |
+| Chat | <img src="https://github.com/Mertaince/WhatsappClone/blob/main/ScreenShot/4.png" width = "400"> |
+| Arcihive | <img src="https://github.com/Mertaince/WhatsappClone/blob/main/ScreenShot/5.png" width = "400"> |
+| Setting | <img src="https://github.com/Mertaince/WhatsappClone/blob/main/ScreenShot/6.png" width = "400"> |
